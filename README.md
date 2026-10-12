@@ -49,3 +49,8 @@ Public site lives in `/docs`. Enable in repo Settings → Pages → Deploy from 
 - Selection is goal + environment driven
 - Resource-aware
 - Capable of growing its own software surface
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/earthenwarecomputer-Goal/wiki](https://github.com/fitzyracing1/earthenwarecomputer-Goal/wiki)
